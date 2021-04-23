@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\bin\Debug\net5.0\massiv8.exe
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\bin\Debug\net5.0\massiv8.deps.json
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\bin\Debug\net5.0\massiv8.runtimeconfig.json
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\bin\Debug\net5.0\massiv8.runtimeconfig.dev.json
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\bin\Debug\net5.0\massiv8.dll
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\bin\Debug\net5.0\ref\massiv8.dll
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\bin\Debug\net5.0\massiv8.pdb
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\obj\Debug\net5.0\massiv8.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\obj\Debug\net5.0\massiv8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\obj\Debug\net5.0\massiv8.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\obj\Debug\net5.0\massiv8.AssemblyInfo.cs
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\obj\Debug\net5.0\massiv8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\obj\Debug\net5.0\massiv8.dll
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\obj\Debug\net5.0\ref\massiv8.dll
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\obj\Debug\net5.0\massiv8.pdb
+C:\Users\User\Desktop\DevEducation\homework\23.04\massiv8\massiv8\obj\Debug\net5.0\massiv8.genruntimeconfig.cache

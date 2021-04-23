@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "massiv8", "massiv8\massiv8.csproj", "{8CF6A21B-26EB-4DD4-88B1-C54685FB9BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CF6A21B-26EB-4DD4-88B1-C54685FB9BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF6A21B-26EB-4DD4-88B1-C54685FB9BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF6A21B-26EB-4DD4-88B1-C54685FB9BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF6A21B-26EB-4DD4-88B1-C54685FB9BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6669E8A-DC97-4C2E-B62B-248BFD365147}
+	EndGlobalSection
+EndGlobal
